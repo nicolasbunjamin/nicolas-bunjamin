@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolasbunjamin
 - 👀 I’m interested in horticulture, arts, and economics
-- 📖 I’m currently learning Python and Git
+- 📖 I’m currently learning Python
 - 📫 You can contact me at nicolasbunjamin@gmail.com
 
 <!---
